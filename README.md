@@ -15,7 +15,7 @@ You need CUDA Toolkit
 https://developer.nvidia.com/cuda-10.1-download-archive-update2
 
 ## Downloading YOLOv4 Pre-trained Weights
-Download pre-trained yolov4.weights file: https://drive.google.com/open?id=1cewMfusmPjYWbrnuJRuKhPMwRe_b9PaT
+Download pre-trained yolov4.weights file: https://drive.google.com/file/d/1ccUlgyncCGUO5ME6IujMjqrBmakUVb-Y/view?usp=sharing
 
 Move youre dowloaded yolov4.weights to **yolo/weights** folder.
 
